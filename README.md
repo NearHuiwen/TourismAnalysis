@@ -1,7 +1,7 @@
 TourismAnalysis携程旅游景点爬虫分析
 ===============
 
-> 项目普及技术：MongoDB、pylab、线程锁
+> 项目普及技术：MongoDB、pylab、线程队列queue控制
 
 请在Python3下运行(版本太低可能会出现不兼容，本人用的是3.7版本)
 
